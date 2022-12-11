@@ -6,11 +6,11 @@ description of each of the files in the repository is listed below in the order 
 
 authorization.py: Python script where I requested a token from Spotify that would allow me to access the website's data.
 
-recommendation.ipynb: Python journal where I created the dataset of songs from each genre in Spotify that would be returned as recommendations for an inputted Spotify song.
+recommendation.pdf: Python journal where I created the dataset of songs from each genre in Spotify that would be returned as recommendations for an inputted Spotify song.
 
 music.csv: Returned dataset generated from recommendation.ipynb.
 
-application.ipynb: Python journal where I defined how recommendations would be returned for an inputted Spotify song in which songs that were closest to the inputted song in energy and valence would be recommended.
+application.pdf: Python journal where I defined how recommendations would be returned for an inputted Spotify song in which songs that were closest to the inputted song in energy and valence would be recommended.
 
-Songs.ipynb: Journal where I generated playlist recommendation for the songs in song_data
+Songs.pdf: Journal where I generated playlist recommendation for the songs in song_data
 
