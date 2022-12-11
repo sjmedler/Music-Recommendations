@@ -12,9 +12,5 @@ music.csv: Returned dataset generated from recommendation.ipynb.
 
 application.ipynb: Python journal where I defined how recommendations would be returned for an inputted Spotify song in which songs that were closest to the inputted song in energy and valence would be recommended.
 
-song_data: Folder which contains all of the mp3 files for the songs that I tried to get playlist recommendations for.
-
-wav: The wav files generated from converting the mp3 files from song_data. These files were used to extract the tempo and loudness feature for each song.
-
 Songs.ipynb: Journal where I generated playlist recommendation for the songs in song_data
 
